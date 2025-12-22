@@ -24,6 +24,7 @@ public class Operators {
         System.out.println("The value of a after a++ is :"+ a);
         b--; // b = b - 1
         System.out.println("The value of b after b-- is :"+ b);
+        // Dece  
         // unary operators
         int c = -a; // unary minus
         System.out.println("The value of c after unary minus is :"+ c);
