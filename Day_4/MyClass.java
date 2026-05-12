@@ -18,6 +18,6 @@ public class MyClass {
         int age = scanner.nextInt() ;
         String message = "Hello, my name is " + fullName + " and I am " + age + " years old.";
         System.out.println(message);
-        scanner.close();
+        
 }
 }
