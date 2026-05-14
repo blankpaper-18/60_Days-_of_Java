@@ -17,7 +17,7 @@ public class Handling_User_Input {
         int sum = a + b;
         System.out.println("The sum of a and b is: " + sum);
         // System.out.println("Hello, " + name + "!");
-        scanner.close();
+        
         
         
     
