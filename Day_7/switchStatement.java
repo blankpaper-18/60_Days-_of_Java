@@ -255,5 +255,6 @@ switch (clubChoice) {
     default:
         System.out.println("Invalid fan club choice.");
 }   
+    }
 }
 
